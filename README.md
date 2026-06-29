@@ -148,7 +148,7 @@ Helpdesk platform providing:
 - Incident tracking
 - User support
 
-![Zammad](Images/Zammad%20dashbord.png)
+![Zammad](Images/Zammad-dashbord.png)
 
 ---
 
@@ -206,7 +206,7 @@ The complete project documentation is available in the **docs** folder.
 
 **Salma Ouchahed**
 
-- LinkedIn: https://linkedin.com/in/salma-ouchahed
+- LinkedIn: https://www.linkedin.com/in/salma-ouchahed-652189206/
 - GitHub: https://github.com/CyberTechSali
 
 ---
