@@ -94,7 +94,7 @@ Voici la structure de ce dépôt :
 
 ## 👩‍💻 Auteure
 
-- **Ouchahed Salma** - *Stagiaire PFE* - [Profil GitHub](https://github.com/yourusername)
+- **Ouchahed Salma** - *IT engineer* - [Profil GitHub](https://github.com/yourusername)
 
 ---
 
