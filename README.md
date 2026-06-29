@@ -82,11 +82,11 @@ Infrastructure monitoring including:
 - Network availability
 - Performance dashboards
 
-![Zabbix](Images/Zabbix%20dashbord.png)
+![Zabbix](Images/Zabbix-dashbord.png)
 
 Additional monitoring view:
 
-![Hosts](Visualisation%20des%20serveurs%20par%20zabbix.png)
+![Hosts](zabbix-hosts)
 
 ---
 
