@@ -40,7 +40,7 @@ The infrastructure provides:
 
 ## Network Topology
 
-![Topology](Images/network-topology)
+![Topology](Images/architecture-réseau.png)
 
 ---
 
