@@ -111,7 +111,8 @@ Centralized Identity Provider implementing:
 - Identity Management
 - OAuth2 / OpenID Connect
 
-![Wazuh](Images/Authentik-dashbord .png)
+![Authentik](Images/Authentik-dashbord .png)
+
 ---
 
 ## ☁️ Cloudflare
