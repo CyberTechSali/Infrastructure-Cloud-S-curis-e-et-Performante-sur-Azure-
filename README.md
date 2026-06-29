@@ -34,19 +34,19 @@ The infrastructure provides:
 
 ## Global Architecture
 
-![Architecture](Images/Architecture%20de%20projet.png)
+![Architecture](architecture)
 
 ---
 
 ## Network Topology
 
-![Topology](Images/Topologie%20de%20l'infrastructure.png)
+![Topology](Images/network-topology)
 
 ---
 
 ## Full Mesh VPN Topology
 
-![Mesh](Images/Full%20Messh%20Topologie.png)
+![Mesh](Images/Mesh-Topologie.png)
 
 ---
 
@@ -60,7 +60,7 @@ The infrastructure provides:
 - Firewall policies
 - Traffic inspection
 
-![FortiGate](Images/Frotigate%20dashbord.png)
+![FortiGate](Images/Frotigate-dashbord.png)
 
 ---
 
@@ -68,7 +68,7 @@ The infrastructure provides:
 
 Secure communication between every virtual machine through a Full Mesh VPN based on WireGuard.
 
-![NetBird](Images/Netbird%20dashbord.png)
+![NetBird](Images/Netbird-dashbord.png)
 
 ---
 
@@ -99,7 +99,7 @@ Centralized security monitoring including:
 - File Integrity Monitoring
 - Security alerts
 
-![Wazuh](Images/Wazuh%20dashbord.png)
+![Wazuh](Images/Wazuh-dashbord.png)
 
 ---
 
@@ -111,7 +111,7 @@ Centralized Identity Provider implementing:
 - Identity Management
 - OAuth2 / OpenID Connect
 
-![Authentik](Images/Authentik%20.png)
+![Authentik](Images/Authentik-dashbord .png)
 
 ---
 
@@ -124,7 +124,7 @@ Cloudflare is used for:
 - DNSSEC
 - Secure public access
 
-![Cloudflare](Images/cloudflare%20dashbord.png)
+![Cloudflare](Images/cloudflare-dashbord.png)
 
 ---
 
@@ -136,7 +136,7 @@ Collaborative platform providing:
 - File sharing
 - Team collaboration
 
-![Nextcloud](Images/nextcloud%20dashbord.png)
+![Nextcloud](Images/nextcloud-dashbord.png)
 
 ---
 
@@ -156,7 +156,7 @@ Helpdesk platform providing:
 
 VPN Gateway used to interconnect the infrastructure securely.
 
-![VPN](Images/Vpn%20Server.png)
+![VPN](Images/Vpn-Server.png)
 
 ---
 
